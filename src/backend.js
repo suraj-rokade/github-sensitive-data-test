@@ -1,0 +1,3 @@
+DATABASE_USER = "root"
+DATABASE_PASSWORD = "RootPassword123456"
+SERVICE_DOMAIN = "cashify.in"
